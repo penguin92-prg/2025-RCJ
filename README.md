@@ -3,7 +3,7 @@
 ## 👥Member
 
 - penguin92-prg [bio](https://github.com/penguin92-prg)
-- maguronoosushi0807 [bio][(https://github.com/maguronoosushi0807)
+- maguronoosushi0807 [bio](https://github.com/maguronoosushi0807)
 
 ## 🔗Links
 
