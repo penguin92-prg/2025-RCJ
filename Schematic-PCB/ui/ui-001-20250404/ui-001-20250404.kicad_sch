@@ -3860,7 +3860,7 @@
 		)
 	)
 	(global_label "RX=Main-2"
-		(shape input)
+		(shape output)
 		(at 102.87 60.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3904,7 +3904,7 @@
 		)
 	)
 	(global_label "TX=Main-1"
-		(shape output)
+		(shape input)
 		(at 102.87 58.42 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3948,7 +3948,7 @@
 		)
 	)
 	(global_label "TX=Main-2"
-		(shape output)
+		(shape input)
 		(at 102.87 63.5 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4102,7 +4102,7 @@
 		)
 	)
 	(global_label "RX=Main-1"
-		(shape input)
+		(shape output)
 		(at 102.87 55.88 0)
 		(fields_autoplaced yes)
 		(effects
