@@ -9,7 +9,7 @@ void setup() {
 void loop() {
   Serial.println("kick!");
   digitalWrite(pin, HIGH);
-  delay(60);
-  digitalWrite(pin, LOW);
-  delay(6000);
+  // delay(60);
+  // digitalWrite(pin, LOW);
+  // delay(1000);
 }
